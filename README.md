@@ -2,4 +2,4 @@
 
 ## Edditing the file
 
-Its amardown file in this rository.
+Its amardown file in this repository.
